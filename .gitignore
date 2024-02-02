@@ -1,0 +1,15 @@
+**/*
+!LICENSE
+!*.*
+!examples
+!examples/*
+
+*.kate-swp
+*.exe
+*.o
+*.a
+*.out
+*.so
+*.lib
+*.def
+*.depend
