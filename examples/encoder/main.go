@@ -17,7 +17,7 @@ import (
 	"io"
 	"os"
 
-	OGG "libs.com/googg"
+	OGG "github.com/ilya2ik/googg"
 )
 
 func check(e error) {
